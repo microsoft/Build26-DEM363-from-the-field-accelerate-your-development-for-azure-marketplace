@@ -31,6 +31,8 @@ By the end of this demo, you will be able to:
 - Validate, package, and submit an offer to Azure Marketplace via Microsoft Partner Center
 - Apply lessons learned from real-world field experience on the development side of Azure Marketplace offers — including managed application access models, webhook integration, customer usage attribution, and ARM template constraints
 
+<img src="img/Stickers.jpg" alt="Holographic Bicep stickers" width="600"/>
+
 ### 💬 Keep Learning with Copilot
 
 Try these prompts with GitHub Copilot to explore the topics from this demo. Open Copilot Chat in VS Code (`Ctrl+Alt+I` on Windows/Linux, `Cmd+Shift+I` on Mac), paste a prompt, and see what you learn. Try connecting the [Microsoft Learn MCP Server](#-microsoft-learn-mcp-server) for the latest official documentation.
