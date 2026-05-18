@@ -31,6 +31,10 @@ By the end of this demo, you will be able to:
 - Validate, package, and submit an offer to Azure Marketplace via Microsoft Partner Center
 - Apply lessons learned from real-world field experience on the development side of Azure Marketplace offers — including managed application access models, webhook integration, customer usage attribution, and ARM template constraints
 
+### 🧠 Swag
+
+Walk away with some amazing holographic Bicep stickers!
+
 <img src="img/Stickers.jpg" alt="Holographic Bicep stickers" width="600"/>
 
 ### 💬 Keep Learning with Copilot
