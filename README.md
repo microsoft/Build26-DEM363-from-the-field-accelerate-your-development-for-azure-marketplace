@@ -15,7 +15,7 @@ Gain practical insights and proven strategies for your development journey for A
 ### Session Flow
 
 <p align="center">
-<img src="img/DEM363-agenda.png" alt="Microsoft Build 2026" width="800"/>
+<img src="img/DEM363-agenda.png" alt="Microsoft Build 2026" width="1200"/>
 </p>
 
 ### 🚀 Getting started
