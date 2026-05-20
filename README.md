@@ -12,6 +12,12 @@
 
 Gain practical insights and proven strategies for your development journey for Azure Marketplace. Streamline your solutions' development, packaging, and deployment while ensuring compliance with Microsoft's requirements. Discover common pitfalls, best practices, and automation techniques to reduce time-to-market. Whether you're new to developing for the Azure Marketplace or looking to optimize your approach, this session delivers real-world guidance to help you develop and publish efficiently.
 
+### Session Flow
+
+<p align="center">
+<img src="img/DEM363-agenda.png" alt="Microsoft Build 2026" width="600"/>
+</p>
+
 ### 🚀 Getting started
 
 To explore this demo at your own pace:
